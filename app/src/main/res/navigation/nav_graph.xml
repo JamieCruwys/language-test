@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/menuFragment">
+
+    <fragment
+        android:id="@+id/menuFragment"
+        android:name="uk.co.jamiecruwys.languagetest.view.MenuFragment"
+        android:label="MainFragment"
+        tools:layout="@layout/fragment_main">
+        <action
+            android:id="@+id/action_menuFragment_to_secondActivity"
+            app:destination="@id/secondActivity" />
+        <action
+            android:id="@+id/action_menuFragment_to_thirdFragment"
+            app:destination="@id/thirdFragment" />
+    </fragment>
+
+    <activity
+        android:id="@+id/secondActivity"
+        android:name="uk.co.jamiecruwys.languagetest.view.SecondActivity"
+        android:label="SecondActivity"
+        tools:layout="@layout/activity_second" />
+
+    <fragment
+        android:id="@+id/thirdFragment"
+        android:name="uk.co.jamiecruwys.languagetest.view.ThirdFragment"
+        android:label="fragment_third"
+        tools:layout="@layout/fragment_third" />
+
+</navigation>

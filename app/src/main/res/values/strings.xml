@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Language test</string>
+    <string name="language_title">Language test</string>
+    <string name="language_reset">Reset</string>
+    <string name="language_spanish">Spanish</string>
+    <string name="language_german">German</string>
+    <string name="language_welsh">Welsh</string>
+    <string name="next">Next</string>
+    <string name="greeting">Hello!</string>
+</resources>

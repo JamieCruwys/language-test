@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prawf iaith</string>
+    <string name="language_title">Prawf iaith</string>
+    <string name="language_reset">Ail gychwyn</string>
+    <string name="language_spanish">Sbaeneg</string>
+    <string name="language_german">Almaeneg</string>
+    <string name="language_welsh">Cymraeg</string>
+    <string name="next">Nesaf</string>
+    <string name="greeting">Helo!</string>
+</resources>

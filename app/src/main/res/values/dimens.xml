@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_vertical_margin">16dp</dimen>
+    <dimen name="main_screen_padding">16dp</dimen>
+    <dimen name="main_screen_title_size">32sp</dimen>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sprachtest</string>
+    <string name="language_title">Sprachtest</string>
+    <string name="language_reset">Zurücksetzen</string>
+    <string name="language_spanish">Spanisch</string>
+    <string name="language_german">Deutsch</string>
+    <string name="language_welsh">Walisisch</string>
+    <string name="next">Nächste</string>
+    <string name="greeting">Hallo!</string>
+</resources>

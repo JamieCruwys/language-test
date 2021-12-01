@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Prueba de idioma</string>
+    <string name="language_title">Prueba de idioma</string>
+    <string name="language_reset">Reiniciar</string>
+    <string name="language_spanish">Español</string>
+    <string name="language_german">Alemán</string>
+    <string name="language_welsh">Galés</string>
+    <string name="next">Siguiente</string>
+    <string name="greeting">Hola!</string>
+</resources>
