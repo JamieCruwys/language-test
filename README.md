@@ -1,4 +1,4 @@
-# language-test
+# Language test
 
 Repo to experiment with building an app that has a different language for certain screens.
 
